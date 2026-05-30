@@ -126,3 +126,23 @@ section ul li a:hover {
   background: #eed49f;
   color: #24273a;
 }
+
+.warning-banner {
+  background: #eed49f;
+  color: #24273a;
+  padding: 0.75rem 1rem;
+  border-radius: 16px;
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+}
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #24273a;
+  line-height: 1;
+}

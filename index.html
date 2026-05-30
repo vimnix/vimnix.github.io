@@ -11,6 +11,13 @@
     />
   </head>
   <body>
+    <div class="warning-banner">
+      <span> This page is using CaskaydiaCove Nerd Font
+	     so if you don't have it installed
+	     you will have some issues with font!
+      </span>
+      <button class="close-btn" onclick="closeWarning()">x</button>
+    </div>
     <div
       style="
         display: flex;
@@ -82,5 +89,10 @@
           <a> next ⟶(in works) </a>
         </div>
     </section>
+    <script>
+      function closeWarning() {
+        document.getElementById("warningBanner").style.display = "none";
+      }
+    </script>
   </body>
 </html>
