@@ -128,8 +128,8 @@ section ul li a:hover {
 }
 
 .warning-banner {
-  background: #eed49f;
-  color: #24273a;
+  background: transparent;
+  color: #cad3f5;
   padding: 0.75rem 1rem;
   border-radius: 16px;
   margin-bottom: 1rem;
