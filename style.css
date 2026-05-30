@@ -34,6 +34,9 @@ section {
   border: 4px solid #eed49f;
   border-radius: 16px;
 }
+section p {
+  color: #cad3f5;
+}
 h2 {
   font-size: 1.2rem;
   color: #cad3f5;
