@@ -51,7 +51,7 @@ li {
   flex-wrap: wrap;
   justify-content: center;
   padding: 1rem 0;
-  border: 4px solid #5b6078;
+  border: 4px solid #eed49f;
   border-radius: 16px;
   margin-bottom: 2.5rem;
 }
@@ -59,8 +59,8 @@ li {
   font-size: 0.9rem;
 }
 .friend-card {
-  border: 1px solid #30363d;
-  border-radius: 6px;
+  border: 4px solid #eed49f;
+  border-radius: 16px;
   padding: 1rem;
   margin-top: 0.5rem;
 }
